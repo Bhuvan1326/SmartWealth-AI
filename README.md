@@ -1,6 +1,6 @@
 # AI Money Mentor
 
-Personal financial planning web app for the **ET AI Hackathon**: calculators, India-focused tax education, portfolio charts, and a **rule-based on-device “AI” advisor** — built with **Python** and **Streamlit** (no external LLM or API keys).
+Personal financial planning web app: calculators, India-focused tax education, portfolio charts, and a **rule-based on-device “AI” advisor** — built with **Python** and **Streamlit** (no external LLM or API keys).
 
 ## Features
 
@@ -15,6 +15,9 @@ Personal financial planning web app for the **ET AI Hackathon**: calculators, In
 - **Plotly charts**: wealth projection, SIP horizons, portfolio scenarios, savings analysis
 - **AI advisor** (`offline_ai.py`): chat, 12-month plan, simple explanations — **fully offline**
 - **Couple Mode**: Partner A + B inputs → combined household profile, joint health score, couple risk rules, income-split pie, joint goals, combined budget & retirement tabs
+
+## Deployment
+https://smart-wealth-ai.streamlit.app/
 
 ## Setup
 
